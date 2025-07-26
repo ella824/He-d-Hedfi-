@@ -14,3 +14,23 @@ A modern defi platform built on herdera hashgraph
 - Backend/API: Node.js (optional)
 
 ## 📁 Project Structure
+## 📄 Status
+
+**Under Development** — contributions and feedback are welcome!
+
+## 🔗 Useful Links
+
+- 🌐 Website: [Coming soon]
+- 💬 Telegram: [@YourTelegramHandle](https://t.me/Ellastria)
+- 📚 Docs: [Coming soon]
+- 🧠 Whitepaper:(docs/whitepaper.md)
+
+## 🪪 License
+
+MIT License — feel free to fork and build on HedFi.
+
+---
+
+### 👋 Get Involved
+
+Want to contribute or partner? Reach out via [Telegram](https://t.me/Ellastria) or submit an issue or pull request.
