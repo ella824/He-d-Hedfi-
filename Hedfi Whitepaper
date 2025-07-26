@@ -1,0 +1,50 @@
+📄 Hedfi Whitepaper 
+The global financial system is evolving rapidly, with decentralized finance (DeFi) emerging as a key innovation. However, many DeFi platforms still suffer from high gas fees, slow transaction times, and limited scalability.
+HedFi aims to change that.
+Built on Hedera Hashgraph, HedFi offers a fast, secure, and low-cost DeFi platform tailored for next-generation financial applications.
+
+Problem Statement
+
+Existing DeFi systems face the following issues:
+❌ High gas fees on popular chains like Ethereum
+❌ Congestion and slow finality during peak usage
+❌ Poor user experience and complicated interfaces
+❌ Centralized vulnerabilities in some “DeFi” projects
+
+ The HedFi Solution
+
+HedFi provides a DeFi experience that is:
+⚡ Fast: Powered by Hedera’s asynchronous BFT consensus
+💸 Affordable: Low and predictable transaction fees
+🛡️ Secure: Enterprise-grade security via the Hedera network
+📱 User-friendly: Intuitive interfaces, optimized for both desktop and mobile
+
+
+Core Features
+🔄 Token Swaps	Instant swaps of Hedera-based assets (HTS tokens)
+💰 Yield Farming	Earn passive income by providing liquidity
+🔐 Staking	Stake assets for secure rewards
+📈 Analytics	Real-time dashboards for tracking performance
+🧩 Wallet Support	Seamless integration with HashPack & Blade Wallet
+
+Technology Stack
+Layer	Technology
+Blockchain	Hedera Hashgraph
+Smart Contracts	Solidity (via Hedera Smart Contract Service)
+Frontend	React.js + TailwindCSS
+Backend (optional)	Node.js / Express
+Wallets	HashPack, Blade Wallet
+Hosting	IPFS or GitHub Pages
+
+Tokenomics (TBA)
+
+> Details on HedFi’s native token (if applicable) will be shared in the next release. This includes supply, distribution, utility, and governance mechanisms
+
+Roadmap
+
+Phase	Milestones
+
+Q3 2025	Ideation, branding, whitepaper draft, GitHub repo created
+Q4 2025	MVP launch (token swap + dashboard) on testnet
+
+
